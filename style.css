@@ -813,6 +813,7 @@
   .project-title,
   .project-category {
     margin-left: 10px;
+    color: var(--vegas-gold);
   }
   
   .project-title {
