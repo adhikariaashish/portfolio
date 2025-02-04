@@ -620,6 +620,13 @@
   }
   .skills-title {
     margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: var(--fs-1);
+  }
+  .skills-title-framework {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: var(--vegas-gold);
   }
   
   .skills-list {
